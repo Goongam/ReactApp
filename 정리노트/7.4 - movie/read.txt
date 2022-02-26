@@ -1,2 +1,0 @@
-npm install react-router-dom <- 돔패키지 설치
-npm i gh-pages <- 깃헙페이지 업로드 패키지
