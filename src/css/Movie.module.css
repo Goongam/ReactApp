@@ -1,0 +1,16 @@
+.movie{
+    border: 1px black solid;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px 20px;
+    background-color: aliceblue;
+}
+
+.movieTitle{
+    font-size: 20px;
+}
+
+.movieSummary{
+    font-size: 15px;
+}
+
